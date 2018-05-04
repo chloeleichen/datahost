@@ -1,0 +1,102 @@
+Age,Gender,FacultyAndDegree,Year,StressLevel,Frequency,Consumption,CaffeinePreference,Spending,Sleep,PositiveEffect,Withdraw,AddictionKnowledge,FrequencyAsChar,FacultySimple
+17-19,Female,Education,1,7,5,200,Coffee,30,6,No,No,Yes,Once a day,Science
+17-19,Female,Science,1,9,5,200,Coffee,30,6,Sometimes,Yes,Yes,Once to twice a fortnight,Science
+20-22,Female,Science,1,5,5,60,No preference,30,6,No,Sometimes,No,Twice a day,Business
+17-19,Female,Business,1,8,4,100,Coffee,30,6,Sometimes,Yes,Yes,Once a day,Science
+17-19,Male,Law,1,7,4,100,Coffee,30,6,Yes,I don't know,Yes,Once a day,Science
+17-19,Female,Arts,1,7,4,100,Coffee,30,6,Sometimes,Sometimes,Yes,Twice a day,Science
+17-19,Female,Commerce,1,5,3,15,iced matcha,30,6,Sometimes,No,No,Once to twice per week,Arts
+17-19,Male,Economics,1,6,5,200,Coffee,30,7,Sometimes,Sometimes,Yes,Once to twice per week,"Architecture, Designing and Planning"
+23-25,Male,Architecture,1,6,5,200,Coffee,30,7,Yes,I don't know,Yes,None,Science
+17-19,Female,Science,1,10,6,300,Coffee,65,6,Sometimes,Yes,Yes,Once a day,Nursing
+17-19,Male,Business,1,7,6,300,Coffee,65,7,Sometimes,Yes,Yes,Once a day,Business
+17-19,Male,Liberal arts,1,10,4,100,Energy drinks,2.5,1.5,Yes,Sometimes,Yes,Twice a day,Science
+17-19,Male,Law,1,8,5,40,Chocolate drinks,2.5,4,Sometimes,No,Yes,Once to twice a fortnight,Science
+17-19,Male,Medicine,1,7,1,5,Green tea/black tea,2.5,4,Sometimes,No,Yes,Once to twice per week,"Architecture, Designing and Planning"
+17-19,Male,commerce law,1,6,3,15,No preference,2.5,4,Yes,No,Yes,Once a day,Business
+17-19,Male,Science,1,8,3,15,None,2.5,4,No,No,Yes,Once a day,Science
+17-19,Female,Science,1,7,2,10,Green tea/black tea,2.5,9,Yes,No,No,Twice a day,Health Sciences
+17-19,Female,Science,1,7,2,10,Green tea/black tea,2.5,9,Yes,No,No,Once a day,Science
+17-19,Female,Arts,1,1,1,15,Coffee,2.5,9,Sometimes,No,Yes,Twice a day,Arts
+17-19,Female,Health,1,9,1,5,Green tea/black tea,2.5,9,No,No,Yes,Twice a day,Science
+17-19,Female,Medical,1,3,4,100,Coffee,2.5,9,Yes,Sometimes,Yes,Once a day,Science
+17-19,Female,Commerce,1,4,0,0,None,2.5,9,"haven't had caffeine enough in my life to know, & don't plan to try",I don't know,No,None,Science
+17-19,Male,Commerce,1,8,5,200,Coffee,2.5,6,Yes,Sometimes,No,Less than once a day,Business
+17-19,Female,education,1,4,2,30,Coffee,2.5,6,Sometimes,No,No,Twice a day,Law
+17-19,Female,Health-science,1,7,2,10,Green tea/black tea,2.5,6,No,No,Yes,Twice a day,Science
+17-19,Male,Science,1,7,1,15,Energy drinks,2.5,6,Sometimes,No,Yes,Once a day,Medicine
+17-19,Female,Science,1,7,1,15,Energy drinks,2.5,6,Sometimes,No,Yes,None,Arts
+17-19,Male,Engineering,1,2,1,15,Energy drinks,2.5,6,Yes,Sometimes,No,Once to twice per week,Science
+17-19,Female,Science,1,6,1,5,Green tea/black tea,2.5,6,No,No,Yes,Once to twice a fortnight,Science
+17-19,Female,Nursing,1,5,4,30,Green tea/black tea,2.5,6,No,No,Yes,Once to twice per week,Medicine
+17-19,Female,Business,1,6,4,30,Green tea/black tea,2.5,6,Sometimes,No,No,Once a day,Engineering and Information Technology
+17-19,Female,Liberal-Arts,1,8,0,0,None,2.5,6,No,I don't know,Yes,Once to twice per week,Health Sciences
+17-19,Male,Social-science,1,0,0,0,None,2.5,6,No,No,Yes,Once to twice a fortnight,Pharmacy
+17-19,Male,Science,1,9,3,40,Coffee,2.5,6,No,No,Yes,None,Business
+23-25,Male,Engineering,1,7,2,30,Coffee,2.5,7,Sometimes,Sometimes,Yes,Once a day,Law
+17-19,Female,Commerce Law,1,4,2,30,Coffee,2.5,7,Sometimes,No,Yes,3+ a day,Engineering and Information Technology
+17-19,Male,Science,1,3,2,30,Energy drinks,2.5,7,Sometimes,No,Yes,3+ a day,Science
+17-19,Female,Design,1,8,2,10,Green tea/black tea,2.5,7,No,No,Yes,Once to twice per week,Arts
+17-19,Female,Science,1,8,2,10,No preference,2.5,7,No,No,Yes,Once to twice per week,Science
+17-19,Female,Pharmacy,1,4,1,5,Green tea/black tea,2.5,7,Sometimes,No,Yes,Once to twice per week,Science
+17-19,Male,Science,1,2,4,100,Coffee,2.5,7,Yes,No,Yes,3+ a day,Science
+17-19,Female,Agriculture,1,5,0,0,None,2.5,7,n.a,I don't know,Yes,Once to twice per week,Health
+17-19,Male,Business-Commerce,1,7,0,0,None,2.5,7,No,No,No,Once a day,Arts
+17-19,Male,Engineering,1,5,3,50,Coffee,2.5,7,Sometimes,No,Yes,3+ a day,Science
+17-19,Female,Arts,1,5,3,15,Green tea/black tea,2.5,7,No effect,No,Yes,Twice a day,Arts
+17-19,Female,Arts,1,8,3,15,Green tea/black tea,2.5,7,Sometimes,No,Yes,Twice a day,Science
+17-19,Female,Architecture and Environments,1,8,6,300,Coffee,2.5,7,Yes,Yes,Yes,Less than once a day,Arts
+17-19,Female,Science,1,7,6,90,Green tea/black tea,2.5,7,No,No,Yes,Less than once a day,Science
+20-22,Male,Engineering/economics,1,3,2,30,Coffee,2.5,8,No,No,Yes,Less than once a day,Science
+17-19,Female,Science,1,7,2,10,Green tea/black tea,2.5,8,No,No,Yes,Less than once a day,Science
+17-19,Female,Bachelor of Science / Bachelor of Laws,1,6,2,10,Green tea/black tea,2.5,8,i drink my tea fairly weak so i think it has like basically no impact,No,Yes,Once to twice a fortnight,Education
+17-19,Female,Science,1,10,1,15,Coffee,2.5,8,No,No,Yes,Once a day,Engineering and Information Technology
+17-19,Female,"Advanced Computing, Commerce",1,6,1,30,Coffee,2.5,8,Sometimes,No,Yes,Twice a day,Business
+17-19,Male,"Arts, Law",1,7,1,15,Coffee,2.5,8,Sometimes,I don't know,Yes,Twice a day,Science
+17-19,Female,Education/Arts,1,7,1,5,None,2.5,8,Sometimes,No,Yes,Once to twice a fortnight,Health
+17-19,Male,Science/Medicine,1,6,4,100,Coffee,2.5,8,Yes,No,Yes,Less than once a day,Health
+17-19,Male,Science,1,7,4,30,Green tea/black tea,2.5,8,Yes,No,Yes,3+ a day,"Architecture, Designing and Planning"
+17-19,Female,Agriculture,1,6,0,0,Green tea/black tea,2.5,8,No,No,Yes,Once to twice a fortnight,Arts
+17-19,Male,Science,1,8,0,0,None,2.5,8,Sometimes,I don't know,Yes,Once a day,Business
+17-19,Male,Economics,1,2,3,50,Coffee,2.5,8,No,No,Yes,Once to twice a fortnight,Science
+17-19,Male,"Medicine, Exercise-physiology",1,0,3,50,Energy drinks,2.5,8,Yes,No,Yes,Once to twice per week,Science
+17-19,Non-binary,Arts and Social Sciences,1,10,5,200,Coffee,15,4,Yes,I don't know,Yes,Once to twice per week,Engineering and Information Technology
+17-19,Female,arts and social sciences,1,9,5,200,Coffee,15,6,Yes,Yes,Yes,Once a day,Business
+20-22,Male,Science,1,4,5,60,Green tea/black tea,15,6,Sometimes,Sometimes,Yes,Less than once a day,Health
+20-22,Female,Science,1,5,4,30,Chai,15,6,Sometimes,No,Yes,Once to twice a fortnight,Business
+17-19,Female,Medical science,1,8,4,100,Coffee,15,6,Yes,Yes,Yes,Once a day,Science
+17-19,Male,Ba music,1,6,4,100,Coffee,15,6,Sometimes,I don't know,Yes,Once to twice per week,Engineering and Information Technology
+17-19,Female,Physiotherapy,1,4,5,200,Coffee,15,7,Sometimes,Sometimes,Yes,Once a day,Science
+17-19,Female,Science,1,9,5,200,Coffee,15,7,Sometimes,Sometimes,Yes,3+ a day,"Architecture, Designing and Planning"
+17-19,Male,Commerce Law,1,10,5,200,Coffee,15,7,Sometimes,Sometimes,No,Twice a day,Law
+17-19,Female,Arts/Law,1,8,5,60,Green tea/black tea,15,7,No,No,No,Less than once a day,Arts
+17-19,Female,Business,1,4,4,100,Coffee,15,7,Yes,Sometimes,Yes,Once to twice per week,Law
+17-19,Male,Commerce,1,7,4,100,Coffee,15,7,Yes,No,Yes,Once to twice a fortnight,Science
+17-19,Female,Medicine,1,4,4,100,Coffee,15,7,Yes,Yes,No,Once to twice per week,Nursing
+17-19,Female,Science,1,4,6,300,Coffee,15,7,Sometimes,Yes,Yes,Twice a day,Arts
+23-25,Male,Engineering and IT,1,8,6,300,Coffee,15,8,Yes,Yes,Yes,Once to twice a fortnight,Law
+17-19,Male,Medicine,1,5,4,100,Coffee,7.5,4,Yes,No,Yes,Less than once a day,Medicine
+17-19,Female,Nursing,1,7,3,15,No preference,7.5,9,Sometimes,Sometimes,Yes,Less than once a day,Nursing
+17-19,Male,Science,1,3,6,300,Coffee,7.5,9,Sometimes,Sometimes,Yes,Once a day,Arts
+17-19,Female,Science,1,7,5,200,Coffee,7.5,6,Sometimes,Yes,Yes,3+ a day,Business
+17-19,Female,Pharmacy,1,9,2,10,Chocolate drinks,7.5,6,Sometimes,No,Yes,3+ a day,Science
+17-19,Female,"Built Environment, Landscape Architecture",1,7,2,10,No preference,7.5,6,Yes,No,Yes,Once a day,Law
+17-19,Female,Science,1,5,4,100,Coffee,7.5,6,Sometimes,No,Yes,Once a day,Science
+17-19,Female,Design Computing,1,4,4,30,Green tea/black tea,7.5,6,No,No,Yes,Once a day,Science
+17-19,Female,Science,1,9,4,30,Green tea/black tea,7.5,6,Sometimes,Sometimes,Yes,Once to twice a fortnight,Engineering and Information Technology
+17-19,Male,Medicine,1,6,6,300,Coffee,7.5,6,Sometimes,No,Yes,Twice a day,Law
+17-19,Male,Science,1,8,5,200,Coffee,7.5,7,Sometimes,No,Yes,Once a day,Medicine
+23-25,Female,"Veterinary Biology, Veterinary Medicine",1,3,2,30,Coffee,7.5,7,Sometimes,Sometimes,No,Twice a day,"Architecture, Designing and Planning"
+17-19,Female,Occupational-therapy,1,7,2,30,Coffee,7.5,7,Yes,No,Yes,None,Law
+17-19,Female,Arts/ Social-Work,1,7,2,30,Coffee,7.5,7,Sometimes,Sometimes,Yes,Once to twice per week,Pharmacy
+17-19,Female,"Arts, Nursing",1,7,2,30,Coffee,7.5,7,Sometimes,No,Yes,Less than once a day,"Architecture, Designing and Planning"
+17-19,Male,"Engineering, IT,  Advanced-Computing",1,8,2,30,Energy drinks,7.5,7,Yes,No,Yes,None,Arts
+17-19,Female,Science,1,3,3,50,Coffee,7.5,7,Sometimes,No,Yes,Twice a day,Science
+17-19,Female,Veterinary,1,7,3,50,Coffee,7.5,7,Sometimes,No,No,3+ a day,Medicine
+17-19,Male,Humanity,1,5,3,50,Coffee,7.5,7,Yes,No,Yes,Once a day,Science
+17-19,Female,"Architecture, Environments",1,8,6,300,Coffee,7.5,7,Yes,Yes,Yes,Less than once a day,Business
+20-22,Female,"Science, Arts",1,5,5,200,Coffee,7.5,8,Sometimes,No,Yes,Once to twice per week,Law
+17-19,Female,Science,1,5,4,100,Coffee,7.5,8,Yes,I don't know,Yes,Once to twice per week,Engineering and Information Technology
+17-19,Female,Science,1,3,4,100,Coffee,7.5,8,Sometimes,Sometimes,Yes,Once to twice per week,Science
+17-19,Male,Biomedicine,1,4,4,100,Coffee,7.5,8,Yes,Yes,Yes,None,Business
+17-19,Female,Combined-law,1,9,4,100,Coffee,7.5,8,Sometimes,Sometimes,Yes,Less than once a day,Law
